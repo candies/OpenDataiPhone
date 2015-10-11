@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.org.spc.opendata-iphone</string>
+				<string>cn.org.spc.opendataiphone</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
